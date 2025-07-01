@@ -8,7 +8,7 @@ A basic video streaming web app inspired by YouTube, built using **React.js**, *
 
 - 🔍 Search bar with real-time suggestions
 - 🎬 Home page with trending videos
-- 📺 Watch page with comments section & Live chat
+- 📺 Watch page with comments section & like button & share button
 - 📂 Sidebar with navigation icons
 - 📱 Simple and clean UI
 
