@@ -25,4 +25,4 @@ A basic video streaming web app inspired by YouTube, built using **React.js**, *
 ---
 
 # Live Preview 
-  https://lnkd.in/e2KPYFeU
+ https://vidtube-khaki.vercel.app/
